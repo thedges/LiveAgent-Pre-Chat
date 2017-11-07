@@ -8,6 +8,11 @@ Steps to use this component:
 3. Go to Setup > Live Agent > Chat Buttons & Invitations.
 4. Edit the Chat Button used for your Community and set the "Pre-Chat Form Page" to your "myPreChat" VF page.
 
+The chat button configuration screen should look similar to following:
+
+![alt text](https://raw.githubusercontent.com/thedges/LiveAgent-Pre-Chat/master/prechatButtonConfig.jpg "Sample Image")
+
+
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">

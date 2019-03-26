@@ -1,5 +1,7 @@
 # LiveAgent-Pre-Chat
 
+THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/thedges/Disclaimer/master/disclaimer.txt).
+
 Form that auto-pops for LiveAgent button on community to collect user information before starting chat session. It will auto-populate with the current Community user if logged in.
 
 Steps to use this component:
